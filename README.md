@@ -45,17 +45,7 @@ The NPS serves to assess customer satisfaction and loyalty to a company, regardl
 
 ## Getting Started
 
-First, install all dependencies and run the development server:
-
-```bash
-npm install
-npm run dev
-# or
-yarn install
-yarn dev
-```
-
-Now configure your environment variables in .env-example file and rename this file to .env:
+First, configure your environment variables in .env-example file and rename this file to .env:
 > Example settings
 
 ```bash
@@ -65,6 +55,16 @@ NODE_PORT=3333
 # BASE URL
 BASE_URL=http://localhost:3333
 
+```
+
+Now install all dependencies and run the development server:
+
+```bash
+npm install
+npm run dev
+# or
+yarn install
+yarn dev
 ```
 
 After, create run all migrations:
