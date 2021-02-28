@@ -15,7 +15,7 @@
 <br>
 
 
-| [<img src=".github/emailTemplate.png" height="350px" width="auto"><br><sub>Email Template</sub>](.github/emailTemplate.png) | [<img src=".github/apiResponse.png" height="350px" width="auto"><br><sub>Api Response</sub>](.github/apiResponse.png)
+| [<img src=".github/emailTemplate.png" height="300px" width="auto"><br><sub>Email Template</sub>](.github/emailTemplate.png) | [<img src=".github/apiResponse.png" height="300px" width="auto"><br><sub>Api Response</sub>](.github/apiResponse.png)
 | :---: | :---: |
 
 ## 🚀 Technologies
